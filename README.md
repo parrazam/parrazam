@@ -33,7 +33,7 @@ I'm a backend software engineer, currently focused on _Java_ and _Spring Framewo
 - [What3words: Ubícate en un mapa con tan sólo 3 palabras](https://blog.parravidales.es/what3words-ubicate-en-un-mapa-con-tan-solo-3-palabras/)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://blog.parravidales.es 🇪🇸)
+▶ [...more blog articles](https://blog.parravidales.es) :es:
 
 ---
 ---
