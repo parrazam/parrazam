@@ -26,11 +26,11 @@ I'm a backend software engineer, currently focused on _Java_ and _Spring Framewo
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Homer, un dashboard ligero y versátil](https://blog.parravidales.es/homer-un-dashboard-ligero-y-versatil/)
 - [WireGuard &lpar;II&rpar;: Crear un cliente](https://blog.parravidales.es/wireguard-ii-crear-un-cliente/)
 - [Statping: Monitoriza el estado de todos tus servicios](https://blog.parravidales.es/statping-monitoriza-el-estado-de-todos-tus-servicios/)
 - [Aegis: Una app gratuita y de código abierto para gestionar tus token 2FA en Android](https://blog.parravidales.es/aegis-una-app-gratuita-y-de-codigo-abierto-para-gestionar-tus-token-2fa/)
 - [Synology: Avísame por Telegram con lo que sea, por favor](https://blog.parravidales.es/synology-avisame-por-telegram-con-lo-que-sea-por-favor/)
-- [What3words: Ubícate en un mapa con tan sólo 3 palabras](https://blog.parravidales.es/what3words-ubicate-en-un-mapa-con-tan-solo-3-palabras/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://blog.parravidales.es) :es:
