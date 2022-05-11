@@ -26,11 +26,11 @@ I'm a backend software engineer, currently focused on _Java_ and _Spring Framewo
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Proxmox: Monta tu propio laboratorio de máquinas virtuales](https://blog.parravidales.es/proxmox-monta-tu-propio-laboratorio-de-maquinas-virtuales/)
 - [Multipass: Máquinas virtuales desde la terminal con un simple comando](https://blog.parravidales.es/multipass-maquinas-virtuales-desde-la-terminal-con-un-simple-comando/)
 - [Homer, un dashboard ligero y versátil](https://blog.parravidales.es/homer-un-dashboard-ligero-y-versatil/)
 - [WireGuard &lpar;II&rpar;: Crear un cliente](https://blog.parravidales.es/wireguard-ii-crear-un-cliente/)
 - [Statping: Monitoriza el estado de todos tus servicios](https://blog.parravidales.es/statping-monitoriza-el-estado-de-todos-tus-servicios/)
-- [Aegis: Una app gratuita y de código abierto para gestionar tus token 2FA en Android](https://blog.parravidales.es/aegis-una-app-gratuita-y-de-codigo-abierto-para-gestionar-tus-token-2fa/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://blog.parravidales.es) :es:
