@@ -26,11 +26,11 @@ I'm a backend software engineer, currently focused on _Java_ and _Spring Framewo
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Continúa usando SQLite con Ghost 5 y Docker](https://blog.parravidales.es/continua-usando-sqlite-con-ghost-5-y-docker/)
 - [Cómo monitorizar tu nube personal con Uptime Kuma](https://blog.parravidales.es/como-monitorizar-tu-nube-personal-con-uptime-kuma/)
 - [Home Assistant: Administra tu hogar desde un mismo lugar](https://blog.parravidales.es/home-assistant-administra-tu-hogar-desde-un-mismo-lugar/)
 - [Proxmox: Interfaz web usando un certificado de Let&#39;s Encrypt](https://blog.parravidales.es/proxmox-interfaz-web-usando-un-certificado-de-lets-encrypt/)
 - [Métricas, privacidad y analíticas](https://blog.parravidales.es/metricas-privacidad-y-analiticas/)
-- [Proxmox: Monta tu propio laboratorio de máquinas virtuales](https://blog.parravidales.es/proxmox-monta-tu-propio-laboratorio-de-maquinas-virtuales/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://blog.parravidales.es) :es:
