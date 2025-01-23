@@ -25,11 +25,11 @@ I'm a backend software engineer, currently focused on _Java_ and _Spring Framewo
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Cómo controlar la TV con Broadlink y Home Assistant](https://blog.parravidales.es/como-controlar-la-tv-con-broadlink-y-home-assistant/)
 - [Cómo crear tu propia VLAN con Tailscale](https://blog.parravidales.es/como-crear-tu-propia-vlan-con-tailscale/)
 - [Controla la privacidad de las cámaras Reolink desde Home Assistant](https://blog.parravidales.es/controla-la-privacidad-de-las-camaras-reolink-desde-home-assistant/)
 - [Agrega un ejecutable cualquiera al menú de aplicaciones y accesos directos en Linux](https://blog.parravidales.es/agrega-un-ejecutable-cualquiera-al-menu-de-aplicaciones-y-accesos-directos-en-linux/)
 - [Actualización del blog](https://blog.parravidales.es/actualizacion-del-blog/)
-- [Cómo integrar los sensores bluetooth de Mijia con tu sistema domótico](https://blog.parravidales.es/como-integrar-los-sensores-bluetooth-de-mijia-con-tu-sistema-domotico/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://blog.parravidales.es) :es:
