@@ -25,11 +25,11 @@ I'm a backend software engineer, currently focused on _Java_ and _Spring Framewo
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Automatiza la ejecución de scripts en Proxmox](https://blog.parravidales.es/automatiza-la-ejecucion-de-scripts-en-proxmox/)
 - [Pocket-ID: Autenticación sencilla con Passkeys para tus servicios autoalojados 🚀](https://blog.parravidales.es/pocket-id-autenticacion-sencilla-con-passkeys-para-tus-servicios-autoalojados/)
 - [Restaura la copia de seguridad de una aplicación en Android](https://blog.parravidales.es/restaura-la-copia-de-seguridad-de-una-aplicacion-en-android/)
 - [Cómo controlar la TV con Broadlink y Home Assistant](https://blog.parravidales.es/como-controlar-la-tv-con-broadlink-y-home-assistant/)
 - [Cómo crear tu propia VLAN con Tailscale](https://blog.parravidales.es/como-crear-tu-propia-vlan-con-tailscale/)
-- [Controla la privacidad de las cámaras Reolink desde Home Assistant](https://blog.parravidales.es/controla-la-privacidad-de-las-camaras-reolink-desde-home-assistant/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://blog.parravidales.es) :es:
